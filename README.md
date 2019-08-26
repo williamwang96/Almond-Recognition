@@ -3,9 +3,10 @@
 ## Overview
 
 I modify and train an implementation of ResNeXt with Squeeze and Excitation block to classify hyperspectral images between five classes.
-[ResNeXt paper](https://arxiv.org/abs/1611.05431)
-[Squeeze and Excitation block paper](https://arxiv.org/pdf/1709.01507.pdf)
-[Implementation Referenced](https://github.com/taki0112/ResNeXt-Tensorflow)
+
+[ResNeXt paper](https://arxiv.org/abs/1611.05431)  
+[Squeeze and Excitation block paper](https://arxiv.org/pdf/1709.01507.pdf)  
+[Implementation Referenced](https://github.com/taki0112/ResNeXt-Tensorflow)  
 
 I compare classification accuracies used neural networks with different configurations, namely the cardinality of ResNeXt and the number of building blocks for each residual layer, and datasets with different numbers of spectral channels to.
 
