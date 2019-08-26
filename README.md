@@ -22,7 +22,7 @@ Euler run scrips: shell scripts to execute training and testing in UW-Madison's 
 
 Euler logs: log files generated while training and testing in UW-Madison's supercomputer cluster Euler
 
-Report and presentation: documents for this class project
+Results: Python script to plot outputs in log files
 
 ## Data set information
 
@@ -44,12 +44,13 @@ Sadly the image data used for this project is company proprietary and cannot be 
 
 ## Results ######
 
-Run results.py
+Check the subfolder "plots" in the "Results" folder directly.
+
+OR run results.py in the "Results" folder to visualize all outputs. All plots will be saved in the subfolder "plots".
 
 ## References
 
-[1] A. Krizhevsky, I. Sutskever, and G. E. Hinton, “ImageNet Classification with Deep Convolutional Neural Networks,” Commun. ACM, vol. 60, no. 6, pp. 84–90, May 2017.
-[2] S. Xie, R. Girshick, P. Dollár, Z. Tu, and K. He, “Aggregated Residual Transformations for Deep Neural Networks,” arXiv:1611.05431 [cs], Nov. 2016.
-[3] J. Hu, L. Shen, and G. Sun, “Squeeze-and-Excitation Networks,” arXiv:1709.01507 [cs], Sep. 2017.
+[1] A. Krizhevsky, I. Sutskever, and G. E. Hinton, “ImageNet Classification with Deep Convolutional Neural Networks,” Commun. ACM, vol. 60, no. 6, pp. 84–90, May 2017.  
+[2] S. Xie, R. Girshick, P. Dollár, Z. Tu, and K. He, “Aggregated Residual Transformations for Deep Neural Networks,” arXiv:1611.05431 [cs], Nov. 2016.  
+[3] J. Hu, L. Shen, and G. Sun, “Squeeze-and-Excitation Networks,” arXiv:1709.01507 [cs], Sep. 2017.  
 [4] J. Kim, “Implementation of ResNeXt with S&E block”, code, https://github.com/taki0112/SENet-Tensorflow
-
